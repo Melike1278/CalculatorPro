@@ -1,2 +1,2 @@
 # CalculatorPro
-My calculator's one level up.
+A calculator. More developed version of teh first one.
